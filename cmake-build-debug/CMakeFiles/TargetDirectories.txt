@@ -1,0 +1,3 @@
+C:/Users/sofik/CLionProjects/ShennonFano/cmake-build-debug/CMakeFiles/ShennonFano.dir
+C:/Users/sofik/CLionProjects/ShennonFano/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofik/CLionProjects/ShennonFano/cmake-build-debug/CMakeFiles/rebuild_cache.dir
